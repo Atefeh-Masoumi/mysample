@@ -14,8 +14,8 @@ const Header = () => {
             </div>
 
             <div className="flex w-full relative h-8  top-0  ">
-                <div className="pl-7">
-                    <div className="bg-yellow-400 ">
+                <div className="pl-14  ">
+                    <div className="bg-yellow-400 rounded-b-lg px-3   ">
                         <span>خرید از مارکت راست چین </span>
                     </div>
 
