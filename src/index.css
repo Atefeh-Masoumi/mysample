@@ -14,3 +14,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@layer components {
+.mycss{
+  background-image: url("../src/images/Blackground.jpg");
+}}
